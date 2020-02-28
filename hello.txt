@@ -1,7 +1,4 @@
-xxxx
-wwww
-<<<<<<< HEAD
-oooo
-=======
-你好
->>>>>>> dfb31b55fc9a68fee7cabcbfe3c6be265ff12f07
+aaaaa
+bbbb
+ccccc
+
